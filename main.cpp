@@ -1,12 +1,29 @@
 #include <iostream>
+#include "piece.h"
+#include "case_echec.h"
 
 using namespace std;
 
+
+
+
 int main()
 {
-    char pseudo[50];
-    cout << "Quel est votre pseudo ?" << endl;
-    cin >> pseudo;
-    cout << "Salut petit con de " << pseudo << endl;
-    return 0;
+    
+
+
+}
+
+void tour_joueur1()
+{
+
+    //select une piece
+
+    //chosir le deplacement
+
+    //verification
+
+    //recupere les nouvelles coords
+
+    //associe la case a la piece
 }
