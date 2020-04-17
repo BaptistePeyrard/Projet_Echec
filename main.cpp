@@ -8,5 +8,6 @@ int main()
     cout << "Quel est votre pseudo ?" << endl;
     cin >> pseudo;
     cout << "Salut " << pseudo << endl;
+    x = "magrossebite";
     return 0;
 }
