@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  echec.vcxproj -> C:\Users\babat\source\repos\echec\Debug\echec.exe
+D:\github\Projet_Echec\main.cpp(11,5): error C2065: 'x' : identificateur non déclaré
